@@ -44,3 +44,6 @@
 build
 Testing
 tmp
+
+# MacOS trash
+.DS_STORE
